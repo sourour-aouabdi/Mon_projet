@@ -34,7 +34,11 @@ Puis j’ai lié le dépôt local au dépôt distant :
 
 6. Envoi du projet vers GitHub
 J’ai envoyé les fichiers avec :
-!git push -u origin main
+!git push -u origin main:
+
+Description du projet personnel :
+Mon projet personnel est la création d'une base de données des plantes médicinales
+avec analyse de leurs propriétés génétiques. Git me permettra de suivre toutes les modifications.
 
 Conclusion :
 Ce TP m’a permis de comprendre les bases essentielles de Git et GitHub : créer un projet, suivre les modifications, faire des commits et envoyer les fichiers vers un dépôt en ligne.
