@@ -1,13 +1,25 @@
+Rapport – TP Git & GitHub
+
+Nom et Prénoms :
+- Aouabdi Sourour
+- Aggouni Hibat Allah
+
+Spécialité : Toxicologie fondamentale appliquée
 
 Résumé sur Git et GitHub :
-
-Git est un système de gestion de versions qui permet de suivre l’évolution d’un projet et d’enregistrer chaque modification. Il est très utilisé pour le travail en groupe et pour garder un historique clair et organisé.
+Git est un système de gestion de versions qui permet de suivre les modifications d’un projet.
+GitHub est une plateforme en ligne qui permet d’héberger ces projets et de collaborer avec
+d’autres utilisateurs.
 
 Dans ce TP, j’ai appris à :
 - créer un dépôt GitHub ;
 - le cloner dans Google Colab ;
 - ajouter et modifier des fichiers ;
 - faire des commits pour enregistrer les changements ;
-- pousser le projet vers GitHub à l’aide d’un token personnel.
+- pousser le projet vers GitHub à l’aide de la commande push.
 
-Mon idée de projet : créer un petit projet simple et utiliser Git pour suivre ses mises à jour et comprendre le fonctionnement du versionnement.
+Lien du projet GitHub :
+https://github.com/sourour-aouabdi/Mon_projet
+
+Idée du projet :
+Créer un petit projet simple contenant un fichier texte pour tester les commandes Git et l’envoi vers GitHub.
