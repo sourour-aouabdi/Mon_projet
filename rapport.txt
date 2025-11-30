@@ -1,0 +1,42 @@
+Rapport du TP Git & GitHub
+Aouabdi Sourour
+Aggouni Hibat Allah
+Spécialité : Toxicologie fondamentale appliquée
+
+Résumé :
+Dans ce TP, j’ai appris à utiliser l’outi
+1. Création du dossier du projet
+J’ai créé un nouveau dossier dans Google Colab avec :
+!mkdir -p mon_projet
+%cd mon_projet
+!echo "Bonjour Git et GitHub depuis Colab" > texte.txt
+
+2. Initialisation de Git dans le projet
+J’ai initialisé Git avec :
+!git init -b main
+
+3. Configuration de l’identité
+J’ai configuré mon nom et email :
+!git config user.name "Sourour"
+!git config user.email "sarittasourour5@gmail.com"
+
+4. Ajout des fichiers et premier commit
+J’ai ajouté les fichiers avec :
+!git add .
+Puis j’ai créé un commit :
+!git commit -m "Premier commit depuis Colab"
+
+5. Connexion du projet à GitHub
+J’ai créé un dépôt GitHub nommé “Mon_projet”
+Puis j’ai lié le dépôt local au dépôt distant :
+!git remote add origin https://github.com/sourour-aouabdi/Mon_projet.git
+
+6. Envoi du projet vers GitHub
+J’ai envoyé les fichiers avec :
+!git push -u origin main
+
+Description du projet personnel :
+Mon projet personnel est la création d'une base de données des plantes médicinales avec analyse de leurs propriétés génétiques. Git me permettra de suivre toutes les modifications apportées au projet.
+
+Conclusion :
+Ce TP m’a permis de comprendre les bases essentielles de Git et GitHub : créer un projet, suivre les modifications, faire des commits et envoyer les fichiers vers un dépôt en ligne
