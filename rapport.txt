@@ -4,39 +4,10 @@ Aggouni Hibat Allah
 Spécialité : Toxicologie fondamentale appliquée
 
 Résumé :
-Dans ce TP, j’ai appris à utiliser l’outi
-1. Création du dossier du projet
-J’ai créé un nouveau dossier dans Google Colab avec :
-!mkdir -p mon_projet
-%cd mon_projet
-!echo "Bonjour Git et GitHub depuis Colab" > texte.txt
+Git est un outil très utile car il permet de suivre l’évolution d’un projet, d’enregistrer toutes les versions et de revenir à n’importe quel état précédent en cas d’erreur. Dans ce TP, j’ai appris à créer un dépôt Git dans Google Colab, configurer mon identité, ajouter des fichiers, créer des commits et envoyer le projet sur GitHub grâce à git push. J’ai également appris à relier un dépôt local à un dépôt distant à l’aide de git remote add origin.
 
-2. Initialisation de Git dans le projet
-J’ai initialisé Git avec :
-!git init -b main
+Projet personnel :
+Je souhaite développer un petit projet biotechnologique permettant d’enregistrer et de suivre des données d’expériences de laboratoire. Git me permettra de conserver un historique clair, d’organiser les modifications et de travailler correctement sur différentes versions du projet.
 
-3. Configuration de l’identité
-J’ai configuré mon nom et email :
-!git config user.name "Sourour"
-!git config user.email "sarittasourour5@gmail.com"
-
-4. Ajout des fichiers et premier commit
-J’ai ajouté les fichiers avec :
-!git add .
-Puis j’ai créé un commit :
-!git commit -m "Premier commit depuis Colab"
-
-5. Connexion du projet à GitHub
-J’ai créé un dépôt GitHub nommé “Mon_projet”
-Puis j’ai lié le dépôt local au dépôt distant :
-!git remote add origin https://github.com/sourour-aouabdi/Mon_projet.git
-
-6. Envoi du projet vers GitHub
-J’ai envoyé les fichiers avec :
-!git push -u origin main
-
-Description du projet personnel :
-Mon projet personnel est la création d'une base de données des plantes médicinales avec analyse de leurs propriétés génétiques. Git me permettra de suivre toutes les modifications apportées au projet.
-
-Conclusion :
-Ce TP m’a permis de comprendre les bases essentielles de Git et GitHub : créer un projet, suivre les modifications, faire des commits et envoyer les fichiers vers un dépôt en ligne
+Branche develop :
+J’ai créé une branche de développement avec la commande : git checkout -b develop.
