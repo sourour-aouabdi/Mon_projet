@@ -5,7 +5,7 @@ Spécialité : Toxicologie fondamentale appliquée
 Rapport du TP Git & GitHub
 Spécialité : Toxicologie fondamentale appliquée
 Résumé :
-Git est un outil important qui permet de suivre l’évolution d’un projet, enregistrer les différentes versions et travailler efficacement en groupe. Dans ce TP, j’ai appris à créer un dépôt Git, faire des commits, configurer Git dans Google Colab et envoyer le travail vers GitHub. J’ai aussi appris à créer une branche de développement (develop) pour travailler séparément de la branche principale.
-Projet biotechnologique :Je souhaite développer un projet biotechnologique qui consiste à créer un petit système de suivi de la qualité de l’eau dans un laboratoire. Le projet permettrait d’enregistrer des données comme le pH, la température, la présence de micro-organismes et d’autres paramètres importants. Grâce à Git, je pourrais suivre l’évolution du projet, enregistrer chaque amélioration et travailler sur différentes versions sans perdre les données importantes.
+Git est un outil important qui permet de suivre l’évolution d’un projet, enregistrer les différentes versions et travailler efficacement en groupe. Dans ce TP, j’ai appris à créer un dépôt Git, faire des commits, configurer Git dans Google Colab et envoyer le travail vers GitHub. J’ai aussi appris à créer une branche de développement pour travailler séparément de la branche principale.
+Projet toxichnologique :Je souhaite développer un projet biotechnologique qui consiste à créer un petit système de suivi de la qualité de l’eau dans un laboratoire. Le projet permettrait d’enregistrer des données comme le pH, la température, la présence de metaux lourds et d’autres paramètres importants. Grâce à Git, je pourrais suivre l’évolution du projet, enregistrer chaque amélioration et travailler sur différentes versions sans perdre les données importantes.
 
 
